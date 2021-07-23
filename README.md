@@ -1,5 +1,5 @@
 # **Fractal-Tree**
-a python script using the graphics module which creates a fractal tree
+a python script using the graphics.py module which creates a fractal tree
 
 you can change the 
 
@@ -11,7 +11,7 @@ you can change the
 
 in the editable values section
 
-it uses the graphics library which uses tkinter so you have to have it installed
+it uses the graphics.py library which uses tkinter so you have to have it installed
 
 ### On Linux:
 
